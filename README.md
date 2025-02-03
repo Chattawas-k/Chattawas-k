@@ -1,33 +1,43 @@
-👋 Hi, I'm Chattawas Kongyut!
-🚀 About Me
-I’m a Software Engineer with 7+ years of experience in software development. I specialize in .NET Core, C#, Angular, and ASP.NET. Passionate about problem-solving and teamwork, I have worked on various enterprise-level applications, including POS systems, data analytics, and human resource management.
+# 👋 Hi, I'm Chattawas Kongyut!
 
-🔹 Looking for: Freelanch or Part-time ,
-🔹 Location: Chiang Mai, Thailand
-🔹 Email: chattawas.k@gmail.com
+## 🚀 About Me
+I am a **Software Engineer** with 7+ years of experience in **.NET Core, C#, ASP.NET, Angular, and Python**. I am passionate about building high-quality applications with **clean architecture, scalability, and efficient performance**.
 
-💻 Tech Stack
-Programming: C#, .NET Core, ASP.NET, VB.NET, Typescript, JavaScript, jQuery
-Frontend: Angular (6+), HTML, CSS
-Backend: .NET Core, ASP.NET, Django, Python, GraphQL
-Databases: SQL Server, MySQL, PostgreSQL, Oracle, Gremlin
-Dev Tools: Entity Framework (EF Core), LINQ, Telerik, DevExpress
-Source Control: Git, Azure DevOps, TFS, SVN
-Development Methodologies: Agile, Scrum, XP Programming
+## 🔧 Technologies & Skills
+- **Languages:** C#, VB.NET, ASP.NET, .NET Core, TypeScript, JavaScript, Python
+- **Frontend Development:** Angular (4-8), jQuery, HTML, CSS
+- **Backend Development:** .NET Core, Django, GraphQL
+- **Database Management:** SQL Server, MySQL, PostgreSQL, CosmosDB, Gremlin
+- **Version Control:** Git, Azure Repos, TFS, SVN
+- **Development Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
 
-🔥 Projects
-🚀 SMS  – SMS system using .Net, MsSql (2024 - Present)
-🚀 Easy Restaurant – POS system using MAUI, Angular, .NET Core (2023 - 2024)
-📊 DLS – Data analysis tool with Python, Django, GraphQL (2020 - 2023)
-💊 NMPCD – Medicine data system for FDA with .NET Core, Angular, MySQL, Gremlin (2019 - 2020)
-🕸️ WiWoW – Network graph visualization using .NET Core, Angular, SQL Server, CosmosDB (2019 - Present)
-👨‍💼 Humatrix – HR management software built with .NET Core, Angular, SQL Server (2018 - 2019)
-🚗 Cactus – Car accident management system in VB.NET, SQL Server (2018 - 2019)
+## 🛠️ Projects
+### 📌 Easy Restaurant (POS System)
+A **Point of Sale (POS) system** for restaurants, built using:
+- **MAUI** for Android App
+- **Angular 8** for UI
+- **.NET Core** for backend
+- **Azure** for source control
 
-More projects on my GitHub 🚀
+### 📌 DLS (Bioinformatics Analysis Tool)
+A tool for **analyzing genetic data**, using:
+- **Django & Python** for backend
+- **GraphQL API**
+- **Angular 8** for UI
+- **PostgreSQL** for data storage
 
-🌍 Let's Connect!
-💌 Email: chattawas.k@gmail.com
-💼 LinkedIn: Your LinkedIn Profile
-🌐 Portfolio: Your Website (if any)
+### 📌 NMPCD (FDA Data Storage System)
+A data storage system for **FDA medicine records**, developed using:
+- **.NET Core** backend
+- **Angular 8** frontend
+- **MySQL & Gremlin DB** for storage
 
+For more projects, check out my [GitHub repositories](https://github.com/Chattawas-k)!
+
+## 📫 Contact Me
+- 📧 **Email:** chattawas.k@gmail.com
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/chattawas-kongyut-4246a8152/)
+
+---
+
+⭐ If you like my work, feel free to follow me!
